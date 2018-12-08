@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "ytdl-core": "^0.28.0",
+    "node-opus": "^0.3.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "simple-youtube-api": "^5.1.1",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
